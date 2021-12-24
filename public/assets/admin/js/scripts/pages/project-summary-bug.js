@@ -2,7 +2,7 @@
     File Name: project-summary-task.js
     Description: Project Summary Page JS
     ----------------------------------------------------------------------------------------
-    Item Name: Modern Admin - Clean Bootstrap 4 Dashboard HTML Template
+    Item Name: I Service Center - Clean Bootstrap 4 Dashboard HTML Template
     Version: 1.0
     Author: GeeksLabs
     Author URL: http://www.themeforest.net/user/geekslabs

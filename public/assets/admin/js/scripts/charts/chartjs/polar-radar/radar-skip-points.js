@@ -2,7 +2,7 @@
     File Name: radar-skip-points.js
     Description: Chartjs radar skip points chart
     ----------------------------------------------------------------------------------------
-    Item Name: Modern Admin - Clean Bootstrap 4 Dashboard HTML Template
+    Item Name: I Service Center - Clean Bootstrap 4 Dashboard HTML Template
     Version: 1.0
     Author: PIXINVENT
     Author URL: http://www.themeforest.net/user/pixinvent

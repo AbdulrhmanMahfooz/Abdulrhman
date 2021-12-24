@@ -3,7 +3,7 @@
 	Description: Popovers are an updated version, which don’t rely on images, 
 				use CSS3 for animations, and data-attributes for local title storage.
 	----------------------------------------------------------------------------------------
-	Item Name: Modern Admin - Clean Bootstrap 4 Dashboard HTML Template
+	Item Name: I Service Center - Clean Bootstrap 4 Dashboard HTML Template
 	Version: 1.0
 	Author: PIXINVENT
 	Author URL: http://www.themeforest.net/user/pixinvent

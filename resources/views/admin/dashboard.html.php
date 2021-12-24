@@ -6,13 +6,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
     <meta name="description"
-          content="Modern admin is super flexible, powerful, clean &amp; modern responsive bootstrap 4 admin template with unlimited possibilities with bitcoin dashboard.">
+          content="I Service Center is super flexible, powerful, clean &amp; modern responsive bootstrap 4 admin template with unlimited possibilities with bitcoin dashboard.">
     <meta name="keywords"
-          content="admin template, modern admin template, dashboard template, flat admin template, responsive admin template, web app, crypto dashboard, bitcoin dashboard">
+          content="admin template, I Service Center template, dashboard template, flat admin template, responsive admin template, web app, crypto dashboard, bitcoin dashboard">
     <meta name="author" content="PIXINVENT">
     <title>  modern </title>
     <link rel="apple-touch-icon" href="admin/images/ico/apple-icon-120.png">
-    <link rel="shortcut icon" type="image/x-icon" href="admin/images/ico/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="admin/images/ico/images.ico">
     <link
         href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Quicksand:300,400,500,700"
         rel="stylesheet">
@@ -76,9 +76,9 @@
                             class="ft-menu font-large-1"></i></a></li>
                 <li class="nav-item">
                     <a class="navbar-brand" href="index.html">
-                        <img class="brand-logo" alt="modern admin logo"
-                             src="admin/images/logo/logo.png">
-                        <h3 class="brand-text">Modern Admin</h3>
+                        <img class="brand-logo" alt="I Service Center logo"
+                             src="admin/images/logo/images.png">
+                        <h3 class="brand-text">I Service Center</h3>
                     </a>
                 </li>
                 <li class="nav-item d-md-none">
@@ -100,7 +100,7 @@
                         <a class="dropdown-toggle nav-link dropdown-user-link" href="#" data-toggle="dropdown">
                 <span class="mr-1">مرجبا
                   <span
-                      class="user-name text-bold-700">  Ahmed Emam</span>
+                      class="user-name text-bold-700">  Abdulrhman</span>
                 </span>
                             <span class="avatar avatar-online">
                   <img  style="height: 35px;" src="" alt="avatar"><i></i></span>
@@ -2171,7 +2171,7 @@
 <footer class="footer footer-static footer-light navbar-border navbar-shadow">
     <p class="clearfix blue-grey lighten-2 text-sm-center mb-0 px-2">
       <span class="float-md-left d-block d-md-inline-block">Copyright &copy; {{date('Y <a class="text-bold-800 grey darken-2" href=""
-                                                                                     target="_blank">Ahmed Emam </a>, All rights reserved. </span>
+                                                                                     target="_blank">Abdulrhman </a>, All rights reserved. </span>
         <span class="float-md-right d-block d-md-inline-blockd-none d-lg-block"> done <i class="ft-heart pink"></i></span>
     </p>
 </footer>

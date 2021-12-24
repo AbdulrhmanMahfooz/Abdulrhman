@@ -2,7 +2,7 @@
     File Name: combo-bar-line-data-label.js
     Description: Chartjs combo bar line data label chart
     ----------------------------------------------------------------------------------------
-    Item Name: Modern Admin - Clean Bootstrap 4 Dashboard HTML Template
+    Item Name: I Service Center - Clean Bootstrap 4 Dashboard HTML Template
     Version: 1.0
     Author: PIXINVENT
     Author URL: http://www.themeforest.net/user/pixinvent

@@ -8,9 +8,9 @@
                             class="ft-menu font-large-1"></i></a></li>
                 <li class="nav-item">
                     <a class="navbar-brand" href="index.html">
-                        <img class="brand-logo" alt="modern admin logo"
-                             src="{{asset('assets/admin/images/logo/logo.png')}}">
-                        <h3 class="brand-text">Modern Admin</h3>
+                        <img class="brand-logo" alt="I Service Center logo"
+                             src="{{asset('assets/admin/images/logo/images.png')}}">
+                        <h3 class="brand-text">I Service Center</h3>
                     </a>
                 </li>
                 <li class="nav-item d-md-none">
@@ -32,7 +32,7 @@
                         <a class="dropdown-toggle nav-link dropdown-user-link" href="#" data-toggle="dropdown">
                 <span class="mr-1">مرجبا
                   <span
-                      class="user-name text-bold-700">  Ahmed Emam</span>
+                      class="user-name text-bold-700">  Abdulrhman</span>
                 </span>
                             <span class="avatar avatar-online">
                   <img  style="height: 35px;" src="" alt="avatar"><i></i></span>

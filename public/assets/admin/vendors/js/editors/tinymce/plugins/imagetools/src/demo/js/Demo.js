@@ -26,7 +26,7 @@ define("tinymce/imagetoolsplugin/Demo", [
 					'<img src="' + imgSrc + '" style="width: 160px; height: 100px">' +
 					'<img src="' + imgSrc + '" style="width: 20%">' +
 					'<img src="' + imgSrc + '">' +
-					'<img src="http://moxiecode.cachefly.net/tinymce/v9/images/logo.png">' +
+					'<img src="http://moxiecode.cachefly.net/tinymce/v9/images/images.png">' +
 				'</p>' +
 			'</textarea>'
 		).appendTo('#ephox-ui');

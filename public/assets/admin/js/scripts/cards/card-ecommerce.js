@@ -2,7 +2,7 @@
     File Name: card-ecommerce.js
     Description: intialize advance ecommerce cards
     ----------------------------------------------------------------------------------------
-    Item Name: Modern Admin - Clean Bootstrap 4 Dashboard HTML Template
+    Item Name: I Service Center - Clean Bootstrap 4 Dashboard HTML Template
     Version: 1.0
     Author: Pixinvent
     Author URL: hhttp://www.themeforest.net/user/pixinvent
